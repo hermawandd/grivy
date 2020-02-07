@@ -1,9 +1,13 @@
 <?php  
 error_reporting(1);
 
+/**
+	* Date Created 	: Rab, 01-Jan, 09:18:30
+	* @category 	: MD5 DECRYPTER
+	* @author 	: Andri AR [https://web.facebook.com/Xdrsyah]
+	* @copyright 	: 2020 Xaynet Project X MISKIN PRIDE
 
-echo "project info : grivy tools  \n";
-echo "created by xdrsyah \n";
+**/
 
 echo "[1] extrap & get direct link \n";
 echo "[2] cek code \n";
